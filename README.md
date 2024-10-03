@@ -9,9 +9,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 
 <br>
 
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src="./github/preview.png" width="60%">
-</p>
+![projeto-portal-de-noticias-preview](https://github.com/user-attachments/assets/4981b2af-58a9-4c22-8d2b-ba24ef45ffa7)
 
 
 ## 🚀 Tecnologias
